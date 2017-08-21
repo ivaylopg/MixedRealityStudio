@@ -1,9 +1,10 @@
-# TECH 3706 - AR/VR in Architectural Environments <br><br> TECH 421 - Future of Digital Media
-Section Name: TECH 3707.F1 and TECH 421.F1
-08/21/2017 - 12/08/2017
-Tuesday & Thursday 9:30AM - 12:00pm
-Classroom: M209
-Instructor: Ivaylo Getov - ivaylo.getov@woodbury.edu
+# TECH 3706 - AR/VR in Architectural Environments
+# TECH 421 - Future of Digital Media
+Section Name: TECH 3707.F1 and TECH 421.F1    
+08/21/2017 - 12/08/2017    
+Tuesday & Thursday 9:30AM - 12:00pm    
+Classroom: M209    
+Instructor: Ivaylo Getov - ivaylo.getov@woodbury.edu    
 
 ---
 
@@ -235,16 +236,21 @@ Your final grade will be made up from:
 
 ---
 
-## Suggested Reading List
+## Suggested Reading
 
 ### Reference
 * [Form+Code in Design, Art, and Architecture](https://www.amazon.com/dp/1568989377) - Casey Reas, Chandler McWilliams
 * [The Design of Everyday Things (Revised Edition)](https://www.amazon.com/dp/0465050654) - Don Norman
+* [The Nature of Code: Simulating Natural Systems with Processing](https://www.amazon.com/dp/0985930802) - Daniel Shiffman
 * [Generative Design: Visualize, Program, and Create with Processing](https://www.amazon.com/dp/1616890770) - Hartmut Bohnacker, Benedikt Gross, Julia Laub
 * [Virtual Reality](http://vr.cs.uiuc.edu/) - By Steven M. LaValle
 * [Gödel, Escher, Bach: an Eternal Golden Braid](https://www.amazon.com/dp/0465026567) - Douglas Hofstadter
 * [The Pragmatic Programmer](https://www.amazon.com/dp/020161622X) - Andrew Hunt, David Thomas
 * [Code Complete, Second Edition](https://www.amazon.com/dp/020161622X) - Steve McConnell
+
+### Video 
+* [The Nature of Code: Simulating Natural Systems with Processing](https://vimeo.com/channels/natureofcode)
+* [Harvard CS50 2012](https://www.youtube.com/playlist?list=PLhQjrBD2T3827MXcOrlJChW2B-gIH81Lx) or [CS50 2017](https://www.youtube.com/watch?v=o4SGkB_8fFs&list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
 
 ### Fiction
 * [Snow Crash](https://www.amazon.com/dp/0553380958) - Neal Stephenson
