@@ -35,7 +35,7 @@ Your final grade will be made up from:
 
 ## Schedule (_Tentative_)
 
-### Session 01 - 08/22/17
+### [Session 01 - 08/22/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session01)
 * Introductions, course overview, housekeeping
 * Intro to AR/VR design principles
     * A brief history
