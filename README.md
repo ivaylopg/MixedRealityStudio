@@ -14,7 +14,11 @@ This class will explore various platforms for the design and creation of AR and 
 ### Class Format
 This class is brand new for the department. I want to create an environment where you can experiment with new techniques and practices, which are themselves in constant flux as the technology changes and finds its audience. 
 
-The class will be structured as a hands-on lab - lectures will serve to introduce or explore concepts that are then put to the test. We will be on our feet. We will move fast and break things so that we learn how to fix them. We will venture outside and get our hands dirty. You may be asked to split into groups - others may be relying on you to complete a portion of a larger project and it will be your responsibility to deliver.
+The class will be structured as a hands-on lab - lectures will serve to introduce or explore concepts that are then put to the test. 
+
+The first session each week (Tuesday) will tend to be more theoretical, while the second (Thursday) will dive deeper into execution, coding, and implementation.
+
+We will be on our feet. We will move fast and break things so that we learn how to fix them. We will venture outside and get our hands dirty. You may be asked to split into groups - others may be relying on you to complete a portion of a larger project and it will be your responsibility to deliver.
 
 The schedule below is tentative and will _very likely_ change over the first couple weeks. Please check the git repository each week to find the most up to date schedule and topics.
 
