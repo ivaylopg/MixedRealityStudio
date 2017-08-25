@@ -48,32 +48,32 @@ Your final grade will be made up from:
 
 
 ### [Session 02 - 08/24/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session02)
-* AR/VR design principles continued
-    * designing the real world (continued).
-    * User interaction and expectations
-    * What is "Creative Coding"?
+* Intro to Microsoft Hololens
+* What is "Creative Coding"?
     * Coding as writing
     * Coding as prototyping
-* Intro to Microsoft Hololens
+* Into to Unity Continued
 
 
 ### Session 03 - 08/29/17
-* Microsoft Hololens Continued
-    * User Input and Interaction
-* Intro to Unity Physics
-    * Physics refresher (don't worry!)
-    * Acceleration, velocity, mass, weight
-    * Introduce vectors and forces
-
-
-### Session 04 - 08/31/17
+* AR/VR design principles continued
+    * designing the real world (continued).
+    * User interaction and expectations
+    * Microsoft Hololens Input and Interaction
 * AR/VR design continued
     * Designing physicality
     * What makes something "real"
     * Virtual "weight" and realism
+
+
+### Session 04 - 08/31/17
+* Intro to Unity Physics
+    * Physics refresher (don't worry!)
+    * Acceleration, velocity, mass, weight
+    * Introduce vectors and forces
 * Microsoft Hololens Continued
     * Detecting and using the physical world
-* Bringing it together: using Unity physics in the physical world
+    * Bringing it together: using Unity physics in the physical world
 
 
 ### Session 05 - 09/05/17
