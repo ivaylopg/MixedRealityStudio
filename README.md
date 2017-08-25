@@ -47,7 +47,7 @@ Your final grade will be made up from:
 * Intro to Unity
 
 
-### Session 02 - 08/24/17
+### [Session 02 - 08/24/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session02)
 * AR/VR design principles continued
     * designing the real world (continued).
     * User interaction and expectations
