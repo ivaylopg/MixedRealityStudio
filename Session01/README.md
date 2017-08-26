@@ -11,8 +11,8 @@
         * Things that are “Experienced” rather than “Used”
         * Trying and failing is OK!
         * We will test ideas and develop tools that you can use
-    * Expectations: Participation and Felibility
-        * I do not want to talk _at_ you. I want to facilitate - help you try things. Participation is a huge part of that - the class should evolve into a dialogue.
+    * Expectations: Participation and Flexibility
+        * I do not want to talk _at_ you. I want to facilitate - help you try things. Participation is a huge part of that - the class should evolve into a dialog.
         * Please be flexible as the class itself is an experiment and subject to change.
     * Assignments
         * Keep up with reading
@@ -134,11 +134,11 @@
 ## Assignments for next time
 
 * Read: [Virtual Reality - Chapter 1](http://vr.cs.uiuc.edu/)
-* Set up Unity somehere you can work.
+* Set up Unity somewhere you can work.
 
 
 ## Extra reading
-**This is not required!** Just some additonal resources you might find interesting/relevant/funny.
+**This is not required!** Just some additional resources you might find interesting/relevant/funny.
 [Reddit thread on 90's VR hype vs now](https://www.reddit.com/r/Vive/comments/490fxa/to_those_of_you_who_were_part_of_the_vr_hype/)
 [Palmer Luckey Forum Review of Wide5 VR Headset](http://www.mtbs3d.com/phpBB/viewtopic.php?f=120&t=13741)
 [Ivan Sutherland Demonstrating Sketchpad](https://www.youtube.com/watch?v=USyoT_Ha_bA)
