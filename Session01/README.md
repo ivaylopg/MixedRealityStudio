@@ -138,16 +138,16 @@
 
 
 ## Extra reading
-**This is not required!** Just some additional resources you might find interesting/relevant/funny.
-[Reddit thread on 90's VR hype vs now](https://www.reddit.com/r/Vive/comments/490fxa/to_those_of_you_who_were_part_of_the_vr_hype/)
-[Palmer Luckey Forum Review of Wide5 VR Headset](http://www.mtbs3d.com/phpBB/viewtopic.php?f=120&t=13741)
-[Ivan Sutherland Demonstrating Sketchpad](https://www.youtube.com/watch?v=USyoT_Ha_bA)
-[Jon Cohen - History of early AR/VR](http://www.cs.jhu.edu/~cohen/VirtualWorlds/media/pdf/Historical.color.pdf)
-[Virtual Reality as a Moral Ideal](http://www.thenewatlantis.com/publications/virtual-reality-as-moral-ideal)
-[History of the tech that made VirtualBoy possible](https://www.fastcompany.com/3050016/unraveling-the-enigma-of-nintendos-virtual-boy-20-years-later)
-[VR: 90's vs today](https://www.youtube.com/watch?v=DE0lr5lVvmc)
-[Short demo of Ivan Sutherland's HMD](https://www.youtube.com/watch?v=eeVKAlYqKtg)
-[Ivan Sutherland Lecture recounting development of HMD](https://www.youtube.com/watch?v=Y2AIDHjylMI)
-[Sutherland's HMD Paper](https://www.cise.ufl.edu/research/lok/teaching/ve-s07/papers/sutherland-headmount.pdf)
-[Everything you need to know about AR in 5 minutes](https://medium.com/swlh/everything-you-need-to-know-about-ar-in-5-minutes-8d33b5a8f2e5)
-[Sundance Origin Story of Oculus Rift](https://www.youtube.com/watch?v=PuEzG5ljTXk)
+**This is not required!** Just some additional resources you might find interesting/relevant/funny.    
+[Reddit thread on 90's VR hype vs now](https://www.reddit.com/r/Vive/comments/490fxa/to_those_of_you_who_were_part_of_the_vr_hype/)    
+[Palmer Luckey Forum Review of Wide5 VR Headset](http://www.mtbs3d.com/phpBB/viewtopic.php?f=120&t=13741)    
+[Ivan Sutherland Demonstrating Sketchpad](https://www.youtube.com/watch?v=USyoT_Ha_bA)    
+[Jon Cohen - History of early AR/VR](http://www.cs.jhu.edu/~cohen/VirtualWorlds/media/pdf/Historical.color.pdf)    
+[Virtual Reality as a Moral Ideal](http://www.thenewatlantis.com/publications/virtual-reality-as-moral-ideal)    
+[History of the tech that made VirtualBoy possible](https://www.fastcompany.com/3050016/    unraveling-the-enigma-of-nintendos-virtual-boy-20-years-later)    
+[VR: 90's vs today](https://www.youtube.com/watch?v=DE0lr5lVvmc)    
+[Short demo of Ivan Sutherland's HMD](https://www.youtube.com/watch?v=eeVKAlYqKtg)    
+[Ivan Sutherland Lecture recounting development of HMD](https://www.youtube.com/watch?v=Y2AIDHjylMI)    
+[Sutherland's HMD Paper](https://www.cise.ufl.edu/research/lok/teaching/ve-s07/papers/sutherland-headmount.pdf)    
+[Everything you need to know about AR in 5 minutes](https://medium.com/swlh/everything-you-need-to-know-about-ar-in-5-minutes-8d33b5a8f2e5)    
+[Sundance Origin Story of Oculus Rift](https://www.youtube.com/watch?v=PuEzG5ljTXk)    

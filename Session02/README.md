@@ -62,6 +62,6 @@ Some of you asked for suggestions on where to turn to learn coding.
 
 ## Extra reading
 **This is not required!** Just some additional resources you might find interesting/relevant/funny.
-[How Hololens Displays Work](http://www.imaginativeuniversal.com/blog/2015/10/18/how-hololens-displays-work/)
-[How Augmented Reality is Revolutionizing Museums, Schools and Jobs](https://blog.prototypr.io/how-augmented-reality-is-revolutionizing-museums-schools-and-jobs-2efe17be0312)
-[Google Glass 2.0 is a Startling Second Act](https://www.wired.com/story/google-glass-2-is-here/)
+[How Hololens Displays Work](http://www.imaginativeuniversal.com/blog/2015/10/18/how-hololens-displays-work/)    
+[How Augmented Reality is Revolutionizing Museums, Schools and Jobs](https://blog.prototypr.io/    how-augmented-reality-is-revolutionizing-museums-schools-and-jobs-2efe17be0312)    
+[Google Glass 2.0 is a Startling Second Act](https://www.wired.com/story/google-glass-2-is-here/)    
