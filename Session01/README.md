@@ -144,7 +144,7 @@
 [Ivan Sutherland Demonstrating Sketchpad](https://www.youtube.com/watch?v=USyoT_Ha_bA)    
 [Jon Cohen - History of early AR/VR](http://www.cs.jhu.edu/~cohen/VirtualWorlds/media/pdf/Historical.color.pdf)    
 [Virtual Reality as a Moral Ideal](http://www.thenewatlantis.com/publications/virtual-reality-as-moral-ideal)    
-[History of the tech that made VirtualBoy possible](https://www.fastcompany.com/3050016/    unraveling-the-enigma-of-nintendos-virtual-boy-20-years-later)    
+[History of the tech that made VirtualBoy possible](https://www.fastcompany.com/3050016/unraveling-the-enigma-of-nintendos-virtual-boy-20-years-later)    
 [VR: 90's vs today](https://www.youtube.com/watch?v=DE0lr5lVvmc)    
 [Short demo of Ivan Sutherland's HMD](https://www.youtube.com/watch?v=eeVKAlYqKtg)    
 [Ivan Sutherland Lecture recounting development of HMD](https://www.youtube.com/watch?v=Y2AIDHjylMI)    
