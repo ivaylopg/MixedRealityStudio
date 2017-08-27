@@ -1,4 +1,4 @@
-# Session 01 - 08/22/17
+# Session 02 - 08/24/17
 
 ## Recap
 * Miscellaneous reminders:
