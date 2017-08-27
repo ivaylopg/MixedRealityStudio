@@ -240,6 +240,13 @@ Your final grade will be made up from:
 
 ---
 
+## Coding Resources
+Some of you asked for suggestions on where to turn to learn coding.
+* [Hello Unity](https://www.youtube.com/watch?v=7bPQ9L0hvXM&list=PL64OnOdZ_3NGD4qvRucx7BpKUZ-IqGc0Q) is a great place to start that would specifically help you in _this_ class. He covers a good intro to Unity as well as coding in general.
+* One of my favorite general learn-to-code resources is anything by [Daniel Shiffman](https://vimeo.com/shiffman/collections) at NYU. He has a series of videos called [Computer Programming for the Total Beginner](https://vimeo.com/channels/introcompmedia), but once you've got the very very basics down (what are variables? what are functions?) I would highly recommend his [Nature of Code](https://vimeo.com/channels/natureofcode) videos.
+
+---
+
 ## Suggested Reading
 
 ### Reference
