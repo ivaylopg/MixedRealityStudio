@@ -1,6 +1,6 @@
 # Session 02 - 08/24/17
 
-## Recap
+## Intro & Recap
 * Miscellaneous reminders:
     * Remember that lecture slides, notes, and reading will be on [github](https://github.com/ivaylopg/Tech421Tech3706)
     * Today will mostly be spent working in Unity, building our skills
@@ -14,7 +14,7 @@
         * As far as this class is concerned, we’re drawing the line here:
         * **Virtual Reality** = Where everything that the user sees & hears is controlled by the created experience. 
             * It is a world built from the ground up, and you (as the creators) are responsible for creating all the rules of how this world behaves and what the expectations are.
-        * **Augemented Reality** = You are adding things to the real world. 
+        * **Augmented Reality** = You are adding things to the real world. 
             * The rules/expectations of the real world still apply, and you can leverage that to your advantage.
         * What about _Mixed Reality?_ 
             * You'll see this term a lot if you start looking up Hololens tutorials or example projects.

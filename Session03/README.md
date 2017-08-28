@@ -13,7 +13,7 @@
             * Physical world vs perceived world.
     * As far as this class is concerned, we’re drawing the line here:
         * **Virtual Reality** = Where everything that the user sees & hears is controlled by the created experience. 
-        * **Augemented Reality** = You are adding things to the real world.
+        * **Augmented Reality** = You are adding things to the real world.
     * Difference b/w layering content on top of the world (Google Glass) and being part of the world
     * Talked about hololens as not the most ideal device in the real world but our ideal lab device
     * Two **huge** technologies that make it a killer AR headset
