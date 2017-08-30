@@ -59,7 +59,7 @@ Your final grade will be made up from:
 * Into to Unity Continued
 
 
-### Session 03 - 08/29/17
+### [Session 03 - 08/29/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session03)
 * AR/VR design principles continued
     * designing the real world (continued).
     * User interaction and expectations
