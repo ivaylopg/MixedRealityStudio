@@ -64,10 +64,6 @@ Your final grade will be made up from:
     * designing the real world (continued).
     * User interaction and expectations
     * Microsoft Hololens Input and Interaction
-* AR/VR design continued
-    * Designing physicality
-    * What makes something "real"
-    * Virtual "weight" and realism
 
 
 ### Session 04 - 08/31/17
@@ -75,6 +71,10 @@ Your final grade will be made up from:
     * Physics refresher (don't worry!)
     * Acceleration, velocity, mass, weight
     * Introduce vectors and forces
+* AR/VR design continued
+    * Designing physicality
+    * What makes something "real"
+    * Virtual "weight" and realism
 * Microsoft Hololens Continued
     * Detecting and using the physical world
     * Bringing it together: using Unity physics in the physical world
