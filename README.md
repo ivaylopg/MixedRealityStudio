@@ -1,4 +1,4 @@
-# TECH 3706 - AR/VR in Architectural Environments
+# ARCH 3706 & 6760 - AR/VR in Architectural Environments
 # TECH 421 - Future of Digital Media
 Section Name: TECH 3707.F1 and TECH 421.F1    
 08/21/2017 - 12/08/2017    
