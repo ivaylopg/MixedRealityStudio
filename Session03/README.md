@@ -96,7 +96,7 @@
 * [Design For Humanity - Parts 1, 2, 3](https://medium.com/swlh/the-future-of-design-is-emotional-5789ccde17aa)
 
 ## Extra reading
-**This is not required!** Just some additional resources you might find interesting/relevant/funny.
+**This is not required!** Just some additional resources you might find interesting/relevant/funny.    
 The **Mother of all Demos** ([video](https://www.youtube.com/watch?v=yJDv-zdhzMY), [wikipedia](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)) was Douglas Engelbart's first public demonstration of the graphical user interface and is often referred to as one of a handful of distinct events that changed computing forever.    
 [The Encyclopedia of Human-Computer Interaction, 2nd Ed.](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro)    
 [Skeuomorphism is Dead, Long Live Skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism)    

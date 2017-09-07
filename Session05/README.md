@@ -122,7 +122,7 @@ What info do we need to keep track of?
 * [Design For Humanity - Parts 4,5](https://medium.com/swlh/how-to-design-a-cui-59f1fb3f35fc)
 
 ## Extra reading
-**This is not required!** Just some additional resources you might find interesting/relevant/funny.
+**This is not required!** Just some additional resources you might find interesting/relevant/funny.    
 [A Study of the Design Process](http://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf) - This is the British Design Council report on the 11 companies that all had the Double Diamond in common.    
 [IDEO's "Human Centered Design Kit"](https://www.ideo.com/post/design-kit)    
 [MIT "Smarter Objects" Video](https://www.youtube.com/watch?v=UA_HZVmmY84)    

@@ -61,7 +61,7 @@ Some of you asked for suggestions on where to turn to learn coding.
 * One of my favorite general learn-to-code resources is anything by [Daniel Shiffman](https://vimeo.com/shiffman/collections) at NYU. He has a series of videos called [Computer Programming for the Total Beginner](https://vimeo.com/channels/introcompmedia), but once you've got the very very basics down (what are variables? what are functions?) I would highly recommend his [Nature of Code](https://vimeo.com/channels/natureofcode) videos.
 
 ## Extra reading
-**This is not required!** Just some additional resources you might find interesting/relevant/funny.
+**This is not required!** Just some additional resources you might find interesting/relevant/funny.    
 [How Hololens Displays Work](http://www.imaginativeuniversal.com/blog/2015/10/18/how-hololens-displays-work/)    
 [How Augmented Reality is Revolutionizing Museums, Schools and Jobs](https://blog.prototypr.io/how-augmented-reality-is-revolutionizing-museums-schools-and-jobs-2efe17be0312)    
 [Google Glass 2.0 is a Startling Second Act](https://www.wired.com/story/google-glass-2-is-here/)    
