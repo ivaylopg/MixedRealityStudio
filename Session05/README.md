@@ -123,11 +123,11 @@ What info do we need to keep track of?
 
 ## Extra reading
 **This is not required!** Just some additional resources you might find interesting/relevant/funny.
-[A Study of the Design Process](http://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf) - This is the British Design Council report on the 11 companies that all had the Double Diamond in common.
-[IDEO's "Human Centered Design Kit"](https://www.ideo.com/post/design-kit)
-[MIT "Smarter Objects" Video](https://www.youtube.com/watch?v=UA_HZVmmY84)
-[The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1504743268&sr=8-1&keywords=Lean+Startup) - This is an amazon link but I would be surprised if the school library didn't have this.
-[Building the Terminator Vision HUD in HoloLens](https://blogs.windows.com/buildingapps/2017/03/06/building-terminator-vision-hud-hololens/#ftUSQbkgue6cugvQ.97)
-[4 Things I learned Designing User Interfaces for VR at Disney](https://medium.com/startup-grind/4-things-i-learned-designing-user-interfaces-for-vr-cc08cac9e7ec)
-[Core Principles of UI Design](https://www.invisionapp.com/blog/core-principles-of-ui-design/)
+[A Study of the Design Process](http://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf) - This is the British Design Council report on the 11 companies that all had the Double Diamond in common.    
+[IDEO's "Human Centered Design Kit"](https://www.ideo.com/post/design-kit)    
+[MIT "Smarter Objects" Video](https://www.youtube.com/watch?v=UA_HZVmmY84)    
+[The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1504743268&sr=8-1&keywords=Lean+Startup) - This is an amazon link but I would be surprised if the school library didn't have this.    
+[Building the Terminator Vision HUD in HoloLens](https://blogs.windows.com/buildingapps/2017/03/06/building-terminator-vision-hud-hololens/#ftUSQbkgue6cugvQ.97)    
+[4 Things I learned Designing User Interfaces for VR at Disney](https://medium.com/startup-grind/4-things-i-learned-designing-user-interfaces-for-vr-cc08cac9e7ec)    
+[Core Principles of UI Design](https://www.invisionapp.com/blog/core-principles-of-ui-design/)    
 [Psychological approach to Design](https://uxplanet.org/psychological-approach-to-design-3e955196bd19)
