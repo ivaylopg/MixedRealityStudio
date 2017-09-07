@@ -66,26 +66,24 @@ Your final grade will be made up from:
     * Microsoft Hololens Input and Interaction
 
 
-### Session 04 - 08/31/17
-* Intro to Unity Physics
-    * Physics refresher (don't worry!)
-    * Acceleration, velocity, mass, weight
-    * Introduce vectors and forces
+### [Session 04 - 08/31/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session04)
+* Basic Programming Concepts Review
+    * class/variable/function
+    * public vs private
+    * Debugging/Testing
+        * `Debug.Log()`
+* Unity Animations
+    * Keyframes vs Curves
+
+
+### [Session 05 - 09/05/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session05)
 * AR/VR design continued
-    * Designing physicality
-    * What makes something "real"
-    * Virtual "weight" and realism
-* Microsoft Hololens Continued
-    * Detecting and using the physical world
-    * Bringing it together: using Unity physics in the physical world
-
-
-### Session 05 - 09/05/17
-* AR/VR design continued
-    * location specificity
-    * Leaving the Lab
-    * Sensors: GPS, Compass, Gyro
-
+    * UX and UI
+    * Diegetic vs Non-Diegetic
+    * Pseudocode and planning
+* Design Process
+    * Double Diamond model
+    * Minimum Viable Product
 
 ### Session 06 - 09/07/17
 * Hololens recap
