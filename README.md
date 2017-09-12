@@ -86,16 +86,16 @@ Your final grade will be made up from:
     * Minimum Viable Product
 
 ### Session 06 - 09/07/17
-* Hololens recap
+* Unity Colliders and triggers
+* Unity recap
     * Summarize concepts and workflow
-* Catch-up/recap as needed
-
-
-### _(Possible Weekend/Alt Session TBD)_
+    * In-class work
 
 
 ### Session 07 - 09/12/17
 * Introduce HoloLens "mini" project
+* Catch-up/recap as needed
+* Class check-in and schedule recap
 
 
 ### Session 08 - 09/14/17
@@ -136,9 +136,6 @@ Your final grade will be made up from:
     * Health and Safety concerns
 
 
-### _(Possible Weekend/Alt Session TBD)_
-
-
 ### Session 13 - 10/03/17
 * Midterm workshop
     * Topics TBD as needed
@@ -148,6 +145,9 @@ Your final grade will be made up from:
 ### Session 14 - 10/05/17
 * Midterm workshop
     * Topics TBD as needed
+
+
+### _(Possible Weekend/Alt Session TBD)_
 
 
 ### No Class - 10/10/17
