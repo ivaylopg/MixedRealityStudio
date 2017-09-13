@@ -95,7 +95,6 @@ Your final grade will be made up from:
 ### [Session 07 - 09/12/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session07)
 * Introduce HoloLens "mini" project
 * Catch-up/recap as needed
-* Class check-in and schedule recap
 
 
 ### Session 08 - 09/14/17
