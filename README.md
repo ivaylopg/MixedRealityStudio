@@ -85,14 +85,14 @@ Your final grade will be made up from:
     * Double Diamond model
     * Minimum Viable Product
 
-### Session 06 - 09/07/17
+### [Session 06 - 09/07/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session06)
 * Unity Colliders and triggers
 * Unity recap
     * Summarize concepts and workflow
     * In-class work
 
 
-### Session 07 - 09/12/17
+### [Session 07 - 09/12/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session07)
 * Introduce HoloLens "mini" project
 * Catch-up/recap as needed
 * Class check-in and schedule recap
