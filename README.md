@@ -118,7 +118,7 @@ Your final grade will be made up from:
 * TBD
 
 
-### Session 11 - 09/26/17
+### [Session 11 - 09/26/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session04)
 * HoloLens "mini" project presentation and recap
 * AR/VR design continued
     * Thinking about different scales
