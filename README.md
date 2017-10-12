@@ -153,49 +153,66 @@ Your final grade will be made up from:
 
 
 ### Session 16 - 10/17/17
-* Midterm Projects Due
-    * Presentation and Recap
+* Midterm Projects Check-In/Milestone
+    * Main interaction/test of project should be roughed-in
+* AR/VR design continued
+    * From AR to VR
+    * Designing _everything_ the user sees
+    * Health and Safety concerns
 
 
 ### Session 17 - 10/19/17
 * AR/VR design continued
-    * "Tech for Me vs Tech for You"
+    * Thinking about different scales
+    * What is _"room-scale"_?
+    * The limitations of technology
+
+
+### Session 18 - 10/24/17
+* Midterm Projects - Unity Scenes Due
+    * All work on logic/art of your programs is done. 
+    * We will spend the day troubleshooting the build process
+
+
+### Session 19 - 10/26/17
+* Midterm Projects Due
+    * In-class showcase and discussion
+
+
+### Session 20 - 10/31/17
+* **All Midterm Materials Due:**
+    * _Documentation_
+        * Planning/Diagrams/Pseudocode
+        * Video of project working
+    * _Unity Project File (Will already have been turned in last week)_
+    * _Finished compiled/usable program_
+* AR/VR design principles continued
+    * User interaction and expectations continued
+    * HTC Vive hand controllers: more input = more design
+* "Tech for Me vs Tech for You"
     * technology as design process for the artist/creator VS technology as final deliverable/medium for the user
     * Using AR/VR as tools for the "Generalist"
 
 
-### Session 18 - 10/24/17
-* AR/VR design principles continued
-    * User interaction and expectations continued
-    * HTC Vive hand controllers: more input = more design
-
-
-### Session 19 - 10/26/17
+### Session 21 - 11/02/17
 * AR/VR design principles continued
     * Interaction and imagination
     * Graphics quality vs speed of prototyping
     * What can you leave up to the user?
-
-
-### Session 20 - 10/31/17
 * Vive recap
     * Summarize concepts and workflow
 * Catch-up/recap as needed
 
 
-### Session 21 - 11/02/17
+### Session 22 - 11/07/17
 * Introduce final project
 * Recap important concepts
 * Recap available tools/resources
 
 
-### Session 22 - 11/07/17
-* Individual final project meetings
-
-
 ### Session 23 - 11/09/17
-* Final Project workshop and notes
-    * Topics TBD as needed
+* Individual final project meetings
+* Additional recap as needed
 
 
 ### Session 24 - 11/14/17
