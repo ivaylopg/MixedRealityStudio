@@ -120,28 +120,22 @@ Your final grade will be made up from:
 
 ### [Session 11 - 09/26/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session11)
 * HoloLens "mini" project presentation and recap
-* AR/VR design continued
-    * Thinking about different scales
-    * What is _"room-scale"_?
-    * The limitations of technology
 * Introduce midterm
 
 
-### Session 12 - 09/28/17
-* Midterm proposals/questions
-* AR/VR design continued
-    * From AR to VR
-    * Designing _everything_ the user sees
-    * Health and Safety concerns
+### [Session 12 - 09/28/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session12)
+* Building to Hololens
+    * Using Unity files from "mini" project
+    * Using the Microsoft MixedReality Toolkit for Unity
+    * Previewing to a device over the network
 
 
-### Session 13 - 10/03/17
-* Midterm workshop
-    * Topics TBD as needed
+### [Session 13 - 10/03/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session13)
+* Midterm Project Proposals & Discussion
+
+
+### [Session 14 - 10/05/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session14)
 * Individual midterm meetings
-
-
-### Session 14 - 10/05/17
 * Midterm workshop
     * Topics TBD as needed
 
