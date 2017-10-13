@@ -147,9 +147,10 @@ Your final grade will be made up from:
 * University Enrichment Days
 
 
-### Session 15 - 10/12/17
+### [Session 15 - 10/12/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session15)
 * Midterm workshop
-    * Topics TBD as needed
+    * Helpful scripts in HoloToolkit
+    * Individual Questions
 
 
 ### Session 16 - 10/17/17
