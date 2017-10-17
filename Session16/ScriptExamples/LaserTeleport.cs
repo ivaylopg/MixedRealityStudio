@@ -10,12 +10,13 @@ public class LaserTeleport : MonoBehaviour {
   private SteamVR_Controller.Device Controller { get { return SteamVR_Controller.Input((int)trackedObj.index); } }
 
   // These public variables are where you will drop-in your prefabs
-  // and SteamVR objects:
+  // and SteamVR objects.
+  // You will need to provide prefabs for the laser beam and the floor marker!
   public Transform cameraRigTransform;
-  public GameObject teleportReticlePrefab;
   public Transform headTransform;
   public Vector3 teleportReticleOffset;
   public LayerMask teleportMask;
+  public GameObject teleportReticlePrefab;
   public GameObject laserPrefab;
 
   // Private Variables:
