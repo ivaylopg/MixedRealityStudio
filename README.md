@@ -153,20 +153,18 @@ Your final grade will be made up from:
     * Individual Questions
 
 
-### Session 16 - 10/17/17
+### [Session 16 - 10/17/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session16)
+* Midterm workshop
+    * Basic interactions in VR
+    * Individual Questions
 * Midterm Projects Check-In/Milestone
     * Main interaction/test of project should be roughed-in
-* AR/VR design continued
-    * From AR to VR
-    * Designing _everything_ the user sees
-    * Health and Safety concerns
 
 
 ### Session 17 - 10/19/17
-* AR/VR design continued
-    * Thinking about different scales
-    * What is _"room-scale"_?
-    * The limitations of technology
+* AR/VR design principles continued
+    * User interaction and expectations continued
+    * HTC Vive hand controllers: more input = more design
 
 
 ### Session 18 - 10/24/17
@@ -187,9 +185,12 @@ Your final grade will be made up from:
         * Video of project working
     * _Unity Project File (Will already have been turned in last week)_
     * _Finished compiled/usable program_
-* AR/VR design principles continued
-    * User interaction and expectations continued
-    * HTC Vive hand controllers: more input = more design
+* AR/VR design continued
+    * From AR to VR
+    * Designing _everything_ the user sees
+    * Health and Safety concerns
+    * Thinking about different scales
+    * What is _"room-scale"_?
 * "Tech for Me vs Tech for You"
     * technology as design process for the artist/creator VS technology as final deliverable/medium for the user
     * Using AR/VR as tools for the "Generalist"
