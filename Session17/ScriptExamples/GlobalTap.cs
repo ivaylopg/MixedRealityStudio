@@ -40,6 +40,6 @@ public class GlobalTap : MonoBehaviour, IInputClickHandler {
   public void OnInputClicked(InputClickedEventData eventData) {
     // This gets called if the user performs an air-tap while the
     // gaze cursor is over the GameObject that this script is attached to.
-    Debug.Log("I was tapped!");
+    Debug.Log("I was tapped globally!");
   }
 }
