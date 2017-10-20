@@ -161,10 +161,11 @@ Your final grade will be made up from:
     * Main interaction/test of project should be roughed-in
 
 
-### Session 17 - 10/19/17
-* AR/VR design principles continued
-    * User interaction and expectations continued
-    * HTC Vive hand controllers: more input = more design
+### [Session 17 - 10/19/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session17)
+* Midterm workshop
+    * Raycasting
+    * Hololens Spatial Mapping
+    * Individual Questions
 
 
 ### Session 18 - 10/24/17
@@ -191,9 +192,9 @@ Your final grade will be made up from:
     * Health and Safety concerns
     * Thinking about different scales
     * What is _"room-scale"_?
-* "Tech for Me vs Tech for You"
-    * technology as design process for the artist/creator VS technology as final deliverable/medium for the user
-    * Using AR/VR as tools for the "Generalist"
+* AR/VR design principles continued
+    * User interaction and expectations continued
+    * HTC Vive hand controllers: more input = more design
 
 
 ### Session 21 - 11/02/17
@@ -201,6 +202,9 @@ Your final grade will be made up from:
     * Interaction and imagination
     * Graphics quality vs speed of prototyping
     * What can you leave up to the user?
+* "Tech for Me vs Tech for You"
+    * technology as design process for the artist/creator VS technology as final deliverable/medium for the user
+    * Using AR/VR as tools for the "Generalist"
 * Vive recap
     * Summarize concepts and workflow
 * Catch-up/recap as needed
