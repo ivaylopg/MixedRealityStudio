@@ -168,7 +168,7 @@ Your final grade will be made up from:
     * Individual Questions
 
 
-### Session 18 - 10/24/17
+### [Session 18 - 10/24/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session18)
 * Midterm Projects - Unity Scenes Due
     * All work on logic/art of your programs is done. 
     * We will spend the day troubleshooting the build process
