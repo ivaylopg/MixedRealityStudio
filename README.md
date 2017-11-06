@@ -179,7 +179,7 @@ Your final grade will be made up from:
     * In-class showcase and discussion
 
 
-### Session 20 - 10/31/17
+### [Session 20 - 10/31/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session20)
 * **All Midterm Materials Due:**
     * _Documentation_
         * Planning/Diagrams/Pseudocode
@@ -257,7 +257,8 @@ Your final grade will be made up from:
 ## Coding Resources
 Some of you asked for suggestions on where to turn to learn coding.
 * [Hello Unity](https://www.youtube.com/watch?v=7bPQ9L0hvXM&list=PL64OnOdZ_3NGD4qvRucx7BpKUZ-IqGc0Q) is a great place to start that would specifically help you in _this_ class. He covers a good intro to Unity as well as coding in general.
-* One of my favorite general learn-to-code resources is anything by [Daniel Shiffman](https://vimeo.com/shiffman/collections) at NYU. He has a series of videos called [Computer Programming for the Total Beginner](https://vimeo.com/channels/introcompmedia), but once you've got the very very basics down (what are variables? what are functions?) I would highly recommend his [Nature of Code](https://vimeo.com/channels/natureofcode) videos.
+* One of my favorite general learn-to-code resources is anything by [Daniel Shiffman](https://vimeo.com/shiffman/collections) at NYU. He has a series of videos called [Computer Programming for the Total Beginner](https://vimeo.com/channels/introcompmedia), but once you've got the very very basics down (what are variables? what are functions?) I would highly recommend his video series [The Nature of Code: Simulating Natural Systems with Processing](https://vimeo.com/channels/natureofcode).
+* Harvard's intro to CS class is available via HarvardX and youtube: [Harvard CS50 2012](https://www.youtube.com/playlist?list=PLhQjrBD2T3827MXcOrlJChW2B-gIH81Lx) or [CS50 2017](https://www.youtube.com/watch?v=o4SGkB_8fFs&list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
 
 ---
 
@@ -272,10 +273,6 @@ Some of you asked for suggestions on where to turn to learn coding.
 * [Gödel, Escher, Bach: an Eternal Golden Braid](https://www.amazon.com/dp/0465026567) - Douglas Hofstadter
 * [The Pragmatic Programmer](https://www.amazon.com/dp/020161622X) - Andrew Hunt, David Thomas
 * [Code Complete, Second Edition](https://www.amazon.com/dp/020161622X) - Steve McConnell
-
-### Video 
-* [The Nature of Code: Simulating Natural Systems with Processing](https://vimeo.com/channels/natureofcode)
-* [Harvard CS50 2012](https://www.youtube.com/playlist?list=PLhQjrBD2T3827MXcOrlJChW2B-gIH81Lx) or [CS50 2017](https://www.youtube.com/watch?v=o4SGkB_8fFs&list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
 
 ### Fiction
 * [Snow Crash](https://www.amazon.com/dp/0553380958) - Neal Stephenson
