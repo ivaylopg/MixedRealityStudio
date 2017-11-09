@@ -198,26 +198,23 @@ Your final grade will be made up from:
 
 
 ### Session 21 - 11/02/17
-* AR/VR design principles continued
-    * Interaction and imagination
-    * Graphics quality vs speed of prototyping
-    * What can you leave up to the user?
-* "Tech for Me vs Tech for You"
-    * technology as design process for the artist/creator VS technology as final deliverable/medium for the user
-    * Using AR/VR as tools for the "Generalist"
+* BIG UNITY RECAP
 * Vive recap
     * Summarize concepts and workflow
-* Catch-up/recap as needed
+* Catch-up as needed
 
 
-### Session 22 - 11/07/17
+### [Session 22 - 11/07/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session22)
 * Introduce final project
 * Recap important concepts
 * Recap available tools/resources
+* "Tech for Me vs Tech for You"
+    * technology as design process for the artist/creator VS technology as final deliverable/medium for the user
+    * Using AR/VR as tools for the "Generalist"
 
 
 ### Session 23 - 11/09/17
-* Individual final project meetings
+* Individual final project pitches
 * Additional recap as needed
 
 
