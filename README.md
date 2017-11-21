@@ -228,7 +228,7 @@ Your final grade will be made up from:
     * Topics TBD as needed
 
 
-### Session 26 - 11/21/17
+### [Session 26 - 11/21/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session26)
 * Final Project workshop and notes
     * Topics TBD as needed
 
