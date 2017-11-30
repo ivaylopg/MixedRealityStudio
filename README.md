@@ -266,6 +266,7 @@ Some of you asked for suggestions on where to turn to learn coding.
 * [The Design of Everyday Things (Revised Edition)](https://www.amazon.com/dp/0465050654) - Don Norman
 * [The Nature of Code: Simulating Natural Systems with Processing](https://www.amazon.com/dp/0985930802) - Daniel Shiffman
 * [Generative Design: Visualize, Program, and Create with Processing](https://www.amazon.com/dp/1616890770) - Hartmut Bohnacker, Benedikt Gross, Julia Laub
+* [In the Blink of an Eye](https://www.amazon.com/dp/1879505622) - By Walter Murch
 * [Virtual Reality](http://vr.cs.uiuc.edu/) - By Steven M. LaValle
 * [Gödel, Escher, Bach: an Eternal Golden Braid](https://www.amazon.com/dp/0465026567) - Douglas Hofstadter
 * [The Pragmatic Programmer](https://www.amazon.com/dp/020161622X) - Andrew Hunt, David Thomas
