@@ -1,27 +1,31 @@
-# TECH 3706 & ARCH 6760 - AR/VR in Architectural Environments
-# TECH 421 - Future of Digital Media
-Section Name: TECH 3707.F1 and TECH 421.F1    
+# TECH 1711 - Mixed Reality Studio
+Section Name: TECH.1711
 08/21/2017 - 12/08/2017    
-Tuesday & Thursday 9:30AM - 12:00pm    
+Monday & Wednesday 9:30AM - 12:00pm    
 Classroom: M209    
 Instructor: Ivaylo Getov - ivaylo.getov@woodbury.edu    
 
 ---
 
+
 This class will explore various platforms for the design and creation of AR and VR applications. Emphasizing hands-on experimentation, this experiential studio is meant to be a collaboration between both programmers and designers to research and develop new paradigms for user experience and new pipelines for the creation of 3D content. Using the Unity game engine and various hardware equipment, such as the Microsoft Hololens, HTC Vive, and mobile devices, students will work individually and in teams to practically apply novel design principles, culminating in a semester project demonstrating a critical approach to designing for these emerging forms of media.
+
+**This Monday-Wednesday class will be substituted for a Saturday 5-hours class up to three times during the semester. Dates TBD.**
+
+
+_Former students looking for materials from TECH 3706 & ARCH 6760 - AR/VR in Architectural Environments or TECH 421 - Future of Digital Media (Fall 2017) can check out the [fall2017](https://github.com/ivaylopg/Tech421Tech3706/tree/fall2017) branch of this repo._
 
 
 ### Class Format
-This class is brand new for the department. I want to create an environment where you can experiment with new techniques and practices, which are themselves in constant flux as the technology changes and finds its audience. 
+Mixed Reality is a rapidly evolving field, both professionally and pedagogically. Encompassing VR, AR, and any number of trendy buzzwords such as "experiential" and immersive, it stretches across disciplines and can be informed by a variety of expertise. I want to create an environment where you can experiment with new techniques and practices, which are themselves in constant flux as the technology changes and finds its audience. 
 
 The class will be structured as a hands-on lab - lectures will serve to introduce or explore concepts that are then put to the test. 
 
-The first session each week (Tuesday) will tend to be more theoretical, while the second (Thursday) will dive deeper into execution, coding, and implementation.
+The first session each week (Monday) will tend to be more theoretical, while the second (Wednesday) will dive deeper into execution, coding, and implementation.
 
-We will be on our feet. We will move fast and break things so that we learn how to fix them. We will venture outside and get our hands dirty. You may be asked to split into groups - others may be relying on you to complete a portion of a larger project and it will be your responsibility to deliver.
+We will be on our feet. We will move fast and break things so that we learn how to fix them. We may venture outside and get our hands dirty. You will be asked to split into groups - others may be relying on you to complete a portion of a larger project and it will be your responsibility to deliver.
 
-The schedule below is tentative and will _very likely_ change over the first couple weeks. Please check the git repository each week to find the most up to date schedule and topics.
-
+This course itself is relatively new - the schedule below is tentative and will _very likely_ change over the first couple weeks. Please check this git repository each week to find the most up to date schedule and topics.
 
 ### Reading and Course Notes
 This course will not have an assigned textbook. Rather, students are required to read or watch additional material as assigned each session. We will be leaning heavily on participation and discussion in this course, and these readings will help get a better intuition and deeper understanding into relevant topics.
@@ -39,9 +43,10 @@ Your final grade will be made up from:
 
 ## Schedule (_Tentative_)
 
-### [Session 01 - 08/22/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session01)
+
+### Session 01 - 01/17/18 (Wednesday)
 * Introductions, course overview, housekeeping
-* Intro to AR/VR design principles
+* Intro to AR/VR/MR design principles
     * A brief history
     * Defining some terms
     * designing the real world
@@ -51,160 +56,145 @@ Your final grade will be made up from:
 * Intro to Unity
 
 
-### [Session 02 - 08/24/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session02)
-* Intro to Microsoft Hololens
-* What is "Creative Coding"?
+### Session 02 - 01/22/18 (Monday) && Session 03 - 01/24/18 (Wednesday)
+* Intro to Unity
+* _Ivaylo out of town_
+* _One day guest speaker, one day no class - schedule TBD_
+    * Note: Class time will be accounted for with a Saturday class later this semester.
+
+
+### Session 04 - 01/29/18 (Monday)
+* What is _"Creative Coding"_?
     * Coding as writing
     * Coding as prototyping
-* Into to Unity Continued
-
-
-### [Session 03 - 08/29/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session03)
-* AR/VR design principles continued
+* Design principles continued
     * designing the real world (continued).
     * User interaction and expectations
-    * Microsoft Hololens Input and Interaction
 
 
-### [Session 04 - 08/31/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session04)
+### Session 05 - 01/31/18 (Wednesday)
+* Into to Unity Continued
+* Introducing `C#`
+    * `C#` vs `JavaScript`
 * Basic Programming Concepts Review
-    * class/variable/function
-    * public vs private
-    * Debugging/Testing
-        * `Debug.Log()`
-* Unity Animations
-    * Keyframes vs Curves
+    * variables and functions
+    * operations and assignment
+    * "returning" a value
 
 
-### [Session 05 - 09/05/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session05)
-* AR/VR design continued
+### Session 06 - 02/05/18 (Monday)
+* Design principles continued
+    * VR Health and Safety concerns
+    * Thinking about different scales
+    * What is _"room-scale"_?
+* Designing for "Experience"
     * UX and UI
     * Diegetic vs Non-Diegetic
-    * Pseudocode and planning
+
+
+### Session 07 - 02/07/18 (Wednesday)
+* `Programming++`
+    * classes and objects
+    * public vs private
+    * Debugging/Testing
+* Pseudocode and planning
+* Unity colliders and triggers
+
+
+### Session 08 - 02/12/18 (Monday)
+* Design principles continued
+    * User interaction and expectations continued
+    * HTC Vive hand controllers: form + function
+* VR in Unity
+    * Using the SteamVR plug-in
+
+
+### Session 09 - 02/14/18 (Wednesday)
+* C# recap - Create a C# "cheat sheet"
+* Unity recap
+    * Summarize concepts and workflow
+
+
+### No Class - 02/19/18 (Monday)
+* Presidents Day
+
+
+### Session 10 - 02/21/18 (Wednesday)
+* Introduce VR group project
+* Introduce project organization/management
+* Catch-up/recap as needed
+
+
+### Session 11 - 02/26/18 (Monday) && Session 12 - 02/28/18 (Wednesday)
+* No Class - To be replaced by Saturday intensive - Date TBD
+* Lab open for project work or catch up
+* Instructor available for questions
+
+* No Class - To be replaced by Saturday intensive - Date TBD
+* Lab open for project work or catch up
+* Instructor available for questions
+
+
+### Session 11A/12A - TBD
+* **Saturday intensive**
+* Group project intensive
+
+
+### Session 13 - 03/05/18 (Monday)
+* Introduce midterm project
 * Design Process
     * Double Diamond model
     * Minimum Viable Product
 
-### [Session 06 - 09/07/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session06)
-* Unity Colliders and triggers
-* Unity recap
-    * Summarize concepts and workflow
-    * In-class work
 
-
-### [Session 07 - 09/12/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session07)
-* Introduce HoloLens "mini" project
-* Catch-up/recap as needed
-
-
-### Session 08 - 09/14/17
-* **Ivaylo out of town**
-* Remote/Skype class or guest speaker
-* Work on HoloLens "mini" project
-* TBD
-
-
-### Session 09 - 09/19/17
-* **Ivaylo out of town**
-* Remote/Skype class or guest speaker
-* Work on HoloLens "mini" project
-* TBD
-
-
-### Session 10 - 09/21/17
-* **Ivaylo out of town**
-* Remote/Skype class or guest speaker
-* Work on HoloLens "mini" project
-* TBD
-
-
-### [Session 11 - 09/26/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session11)
-* HoloLens "mini" project presentation and recap
-* Introduce midterm
-
-
-### [Session 12 - 09/28/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session12)
-* Building to Hololens
-    * Using Unity files from "mini" project
-    * Using the Microsoft MixedReality Toolkit for Unity
-    * Previewing to a device over the network
-
-
-### [Session 13 - 10/03/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session13)
+### Session 14 - 03/07/18 (Wednesday)
 * Midterm Project Proposals & Discussion
+* Vive recap
+* Catch-up as needed
 
 
-### [Session 14 - 10/05/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session14)
+### No Class - 03/12/18 (Monday) and 03/14/18 (Wednesday)
+* Spring Break
+
+
+### Session 15 - 03/19/18 (Monday)
+* Midterm workshop
+    * Advanced interactions in VR
+    * Individual Questions
+
+
+### Session 16 - 03/21/18 (Wednesday)
 * Individual midterm meetings
 * Midterm workshop
     * Topics TBD as needed
 
 
-### _(Possible Weekend/Alt Session TBD)_
-
-
-### No Class - 10/10/17
-* University Enrichment Days
-
-
-### [Session 15 - 10/12/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session15)
-* Midterm workshop
-    * Helpful scripts in HoloToolkit
-    * Individual Questions
-
-
-### [Session 16 - 10/17/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session16)
-* Midterm workshop
-    * Basic interactions in VR
-    * Individual Questions
-* Midterm Projects Check-In/Milestone
-    * Main interaction/test of project should be roughed-in
-
-
-### [Session 17 - 10/19/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session17)
-* Midterm workshop
-    * Raycasting
-    * Hololens Spatial Mapping
-    * Individual Questions
-
-
-### [Session 18 - 10/24/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session18)
-* Midterm Projects - Unity Scenes Due
-    * All work on logic/art of your programs is done. 
-    * We will spend the day troubleshooting the build process
-
-
-### Session 19 - 10/26/17
+### Session 17 - 03/26/18 (Monday)
 * Midterm Projects Due
     * In-class showcase and discussion
 
 
-### [Session 20 - 10/31/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session20)
-* **All Midterm Materials Due:**
-    * _Documentation_
-        * Planning/Diagrams/Pseudocode
-        * Video of project working
-    * _Unity Project File (Will already have been turned in last week)_
-    * _Finished compiled/usable program_
-* AR/VR design continued
-    * From AR to VR
-    * Designing _everything_ the user sees
-    * Health and Safety concerns
-    * Thinking about different scales
-    * What is _"room-scale"_?
-* AR/VR design principles continued
-    * User interaction and expectations continued
-    * HTC Vive hand controllers: more input = more design
+### No Class - 03/28/18
+* Cezar Chavez Day
 
 
-### Session 21 - 11/02/17
+### Session 02A/03A - TBD
+* **Saturday intensive**
 * BIG UNITY RECAP
-* Vive recap
-    * Summarize concepts and workflow
-* Catch-up as needed
+* Unity Animations
+    * Keyframes and Curves
 
 
-### [Session 22 - 11/07/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session22)
+### Session 18 - 04/02/18 (Monday)
+* Intro to AR
+    * Designing for a layer _on top_ of the world instead of everything the user sees
+    * Sensing the real world
+* Overview of AR Devices
+    * Microsoft Hololens
+    * Mobile AR (Apple ARKit)
+
+
+### Session 19 - 04/04/18 (Wednesday)
 * Introduce final project
 * Recap important concepts
 * Recap available tools/resources
@@ -213,46 +203,50 @@ Your final grade will be made up from:
     * Using AR/VR as tools for the "Generalist"
 
 
-### Session 23 - 11/09/17
-* Individual final project pitches
-* Additional recap as needed
+### Session 20 - 04/09/18 (Monday)
+* Final project pitches and individual meetings
 
 
-### Session 24 - 11/14/17
+### Session 21 - 04/11/18 (Wednesday)
+* Available resources: HoloToolkit
+    * Don't re-invent the wheel
+* Building to Hololens
+    * Using Unity files from "mini" project
+    * Using the Microsoft MixedReality Toolkit for Unity
+    * Previewing to a device over the network
+
+
+### Session 22 - 04/16/18 (Monday)
+* Final Projects Check-In
+    * Setting Milestones
+* Final Project Workshop
+    * Raycasting
+    * Hololens Spatial Mapping
+    * Individual Questions
+
+
+### Session 23 - 04/18/18 (Wednesday)
 * Final Project workshop and notes
     * Topics TBD as needed
 
 
-### Session 25 - 11/16/17
-* Final Project workshop and notes
-    * Topics TBD as needed
+### Session 24 - 04/23/18 (Monday)
+* Final Projects - Final Lab day
+    * If you are doing AR, today should be the day you troubleshoot your final build.
+    * Individual Questions & Cleanup
 
 
-### [Session 26 - 11/21/17](https://github.com/ivaylopg/Tech421Tech3706/tree/master/Session26)
-* Final Project workshop and notes
-    * Topics TBD as needed
-
-
-### No Class - 11/23/17
-* **Thanksgiving Day**
-
-
-### Session 27 - 11/28/17
-* Final Project workshop and notes
-    * Topics TBD as needed
-
-
-### Final - 11/30/17 (TBD)
+### Final - 04/25/18 (Wednesday)
 * Final Project presentation and discussion
 * Class Topic Recap
     * Revisit "The Future of Media"
 * Final Project Public Demo Day (Alt date TBD)
 
 
+
 ---
 
 ## Coding Resources
-Some of you asked for suggestions on where to turn to learn coding.
 * [Hello Unity](https://www.youtube.com/watch?v=7bPQ9L0hvXM&list=PL64OnOdZ_3NGD4qvRucx7BpKUZ-IqGc0Q) is a great place to start that would specifically help you in _this_ class. He covers a good intro to Unity as well as coding in general.
 * One of my favorite general learn-to-code resources is anything by [Daniel Shiffman](https://vimeo.com/shiffman/collections) at NYU. He has a series of videos called [Computer Programming for the Total Beginner](https://vimeo.com/channels/introcompmedia), but once you've got the very very basics down (what are variables? what are functions?) I would highly recommend his video series [The Nature of Code: Simulating Natural Systems with Processing](https://vimeo.com/channels/natureofcode).
 * Harvard's intro to CS class is available via HarvardX and youtube: [Harvard CS50 2012](https://www.youtube.com/playlist?list=PLhQjrBD2T3827MXcOrlJChW2B-gIH81Lx) or [CS50 2017](https://www.youtube.com/watch?v=o4SGkB_8fFs&list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
