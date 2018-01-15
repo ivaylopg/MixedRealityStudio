@@ -130,10 +130,6 @@ Your final grade will be made up from:
 * Lab open for project work or catch up
 * Instructor available for questions
 
-* No Class - To be replaced by Saturday intensive - Date TBD
-* Lab open for project work or catch up
-* Instructor available for questions
-
 
 ### Session 11A/12A - TBD
 * **Saturday intensive**
