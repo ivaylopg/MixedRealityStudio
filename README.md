@@ -13,7 +13,7 @@ This class will explore various platforms for the design and creation of AR and 
 **This Monday-Wednesday class will be substituted for a Saturday 5-hours class up to three times during the semester. Dates TBD.**
 
 
-_Former students looking for materials from TECH 3706 & ARCH 6760 - AR/VR in Architectural Environments or TECH 421 - Future of Digital Media (Fall 2017) can check out the [fall2017](https://github.com/ivaylopg/Tech421Tech3706/tree/fall2017) branch of this repo._
+_Former students looking for materials from TECH 3706 & ARCH 6760 - AR/VR in Architectural Environments or TECH 421 - Future of Digital Media (Fall 2017) can check out the [fall2017](https://github.com/ivaylopg/MixedRealityStudio/tree/fall2017) branch of this repo._
 
 
 ### Class Format
@@ -252,6 +252,7 @@ Your final grade will be made up from:
 ## Suggested Reading
 
 ### Reference
+* [The VR Book - Human Centered Design for Virtual Reality](https://reader.paperc.com/books/The-VR-Book/489936/contents) - Jason Jerald, PhD
 * [Form+Code in Design, Art, and Architecture](https://www.amazon.com/dp/1568989377) - Casey Reas, Chandler McWilliams
 * [The Design of Everyday Things (Revised Edition)](https://www.amazon.com/dp/0465050654) - Don Norman
 * [The Nature of Code: Simulating Natural Systems with Processing](https://www.amazon.com/dp/0985930802) - Daniel Shiffman
