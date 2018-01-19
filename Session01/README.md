@@ -148,14 +148,62 @@
     * CS people - put on designer hats!
     * Designers - think algorithmically!
 
+## Fundamental Design Principles
+### Interaction
+* User interaction and expectations
+    * What do we mean by **interaction**?
+    * Show Text-only vs _Graphical User Interface (GUI)_
+        * Progression from “usable by a small few” to “usable by everyone”
+* Designing for interaction
+    * What (what is the actual input and output)?
+    * How do we cue that interaction?
+    * The technology enables interactions
+    * **expectations** and **teaching**
+        * Example of baby trying to zoom/pinch on magazine after using iPad
+    * **Skeuomorphism**
+        * Apple notes/audio apps
+* Screens vs Space
+    * All of a sudden we have to think about context for what we make
+        * VR Deals with it by creating environments
+            * Netflix web example, netflix VR example
+            * VR "Home" interfaces - need a context for the screens we use
+                * Biggest criticism was that people couldn’t change this home environment to suit their personality. Oculus changed this at last year’s announcements.
+    * Not constrained by available resolution, but by space in the real world
+    * Interesting challenge about this is that we're moving towards unknown. There are no answers
+    * Scale really matters
+        * 1:1 relationship with space
+        * AR apps can measure real world units
+* Two concepts I want to focus on today:
+    * **Manipulation**
+        * UI Fidelity/Ease (expectation)
+        * Types of manipulation
+            * 2D (we take this for granted but it was not always this way)
+            * 3D examples
+                * Power Glove
+                * LEAP sensor
+                * Oculus/Vive handles
+        * Hololens designers focused on defining a set of interactions to work with
+            * gaze
+            * two gestures + tracking
+            * voice input
+                * All the big tech companies have major investments in voice interaction right now (Think: Google Home, Alexa, Siri, Watson)
+        * Show 3D/VR keyboard
+    * **Exploration**
+        * Natural, but limited by available space.
+        * Case study: Overheard
+        * JPL - 1:1 models of rovers for designers to walk around
+        * Exploration can be a manipulation too: content can react to your position
+
 ## Assignments for next time
 
 * Read: [Virtual Reality - Chapter 1](http://vr.cs.uiuc.edu/)
 * Set up Unity somewhere you can work.
+* Send me your preferred contact info!
 
 
 ## Extra reading
 **This is not required!** Just some additional resources you might find interesting/relevant/funny.    
+The **Mother of all Demos** ([video](https://www.youtube.com/watch?v=yJDv-zdhzMY), [wikipedia](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)) was Douglas Engelbart's first public demonstration of the graphical user interface and is often referred to as one of a handful of distinct events that changed computing forever.    
 ["The VR Book" - Excellent History of VR in much more detail](https://reader.paperc.com/books/The-VR-Book/489936/chapter01)    
 [Engadget article about the Sensorama](https://www.engadget.com/2014/02/16/morton-heiligs-sensorama-simulator/)    
 [Article about Morton Helig](http://www.techradar.com/news/wearables/forgotten-genius-the-man-who-made-a-working-vr-machine-in-1957-1318253/2)    
@@ -172,3 +220,8 @@
 [Sutherland's HMD Paper](https://www.cise.ufl.edu/research/lok/teaching/ve-s07/papers/sutherland-headmount.pdf)    
 [Everything you need to know about AR in 5 minutes](https://medium.com/swlh/everything-you-need-to-know-about-ar-in-5-minutes-8d33b5a8f2e5)    
 [Sundance Origin Story of Oculus Rift](https://www.youtube.com/watch?v=PuEzG5ljTXk)    
+[The Encyclopedia of Human-Computer Interaction, 2nd Ed.](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro)    
+[Skeuomorphism is Dead, Long Live Skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism)    
+[An Open-Source Keyboard to Make Your Own](http://www.normalvr.com/blog/an-open-source-keyboard-to-make-your-own/)    
+[Entire Gadget Lab Episode](https://www.youtube.com/watch?v=IcJ-JuA_K7U) of the JPL hololens demo    
+
