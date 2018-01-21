@@ -78,7 +78,7 @@ Please review the official department guidelines and policies on the [printed sy
 ## Schedule (_Tentative_)
 
 
-### Session 01 - 01/17/18 (Wednesday)
+### [Session 01 - 01/17/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session01)
 * Introductions, course overview, housekeeping
 * Intro to AR/VR/MR design principles
     * A brief history
