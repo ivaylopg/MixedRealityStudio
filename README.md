@@ -32,12 +32,46 @@ This course will not have an assigned textbook. Rather, students are required to
 
 All presentation materials, notes, and referenced texts will be made available via this git repository as soon as possible after each session.
 
+### Outcomes
+Participants will show proficiency in the following student learning outcomes.
 
-### Requirements and Grading
+1. Develop understanding of Mixed Reality design and development concept and practices
+2. Develop familiarity with a cross-section of Mixed Reality hardware.
+3. Develop proficiency designing for experience and space rather than pixels.
+4. Complete hands-on exercises and projects to demonstrate familiarity with concepts of Mixed Reality.
+
+### Content
+The following course content will be covered.
+
+1. Introduction to the Unity game engine.
+2. Introduction to C# Programming
+3. Introduction to “Creative Coding”
+4. Intro to simulated Physics
+5. The history of Virtual/Augmented/Mixed Reality.
+6. Differences between Augmented/Mixed/Virtual Reality.
+7. Designing for space instead of screens.
+8. Hands-on work with Microsoft Hololens, HTC Vive, and Apple iOS/ARKit
+9. Basic User Interface (UI) and User Experience (UX) design.
+10. Introduction to project design/organization methods (MVP, Agile, Double-Diamond, etc.)
+
+### Assessment
+Students will be evaluated based on the following criteria.
+
+1. Active and verbal participation in in-class discussion to demonstrate completion and understanding of assigned reading.
+2. Careful attention to execution, technique and completion of projects
+3. Personal challenge and effort in project development
+4. Deadline compliance
+5. Performance in student learning outcomes
+
+### Grading
 Your final grade will be made up from:
+
 * Participation, attendance, in-class projects/exercises: 60%
 * Midterm project: 15%
 * Final project: 25%
+
+### Guidelines and Policies
+Please review the official department guidelines and policies on the [printed syllabus](https://github.com/ivaylopg/MixedRealityStudio/blob/master/SyllabusTech1711.pdf).
 
 ---
 
@@ -53,17 +87,15 @@ Your final grade will be made up from:
 * Choosing our tools for efficient prototyping
     * What is _abstraction_?
     * Why use gaming engines?
-* Intro to Unity
 
 
 ### Session 02 - 01/22/18 (Monday) && Session 03 - 01/24/18 (Wednesday)
-* Intro to Unity
-* _Ivaylo out of town_
-* _One day guest speaker, one day no class - schedule TBD_
-    * Note: Class time will be accounted for with a Saturday class later this semester.
+* **No class this week**
+* _Note: Class time will be accounted for with a Saturday class later this semester._
 
 
 ### Session 04 - 01/29/18 (Monday)
+* Intro to Unity
 * What is _"Creative Coding"_?
     * Coding as writing
     * Coding as prototyping
@@ -94,7 +126,7 @@ Your final grade will be made up from:
 
 ### Session 07 - 02/07/18 (Wednesday)
 * `Programming++`
-    * classes and objects
+    * classes and objects - Intro to OOP
     * public vs private
     * Debugging/Testing
 * Pseudocode and planning
