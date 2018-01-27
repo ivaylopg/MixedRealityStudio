@@ -94,7 +94,7 @@ Please review the official department guidelines and policies on the [printed sy
 * _Note: Class time will be accounted for with a Saturday class later this semester._
 
 
-### Session 04 - 01/29/18 (Monday)
+### [Session 04 - 01/29/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session04)
 * Intro to Unity
 * What is _"Creative Coding"_?
     * Coding as writing
