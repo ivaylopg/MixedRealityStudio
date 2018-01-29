@@ -75,23 +75,31 @@
         * Something small you wish you could see big?
         * Something invisible you wish you could see?
     * Specifically think about places where technology is a _barrier_.
-* **10 Minuets** - Synthesize
+* **10 Minutes** - Synthesize
     * Combine similar ideas
     * Separate complex ideas
     * Find Cause & Effect Relationships
 * Great! This is our "I didn't know it was hard" baseline. (I'll include a photo of this board on the github)
 
+---
 
-## Intro to unity (See Slides)
+## Intro to unity (See annotated slides for more detail)
 * Intro to the Unity Interface
-    * **Edit** mode vs **Play** mode
     * Hierarchy, Project Navigator, Inspector, Console
-* Game Objects and Prefabs
-* Nesting hierarchy
-* Adding **components** to Game Objects
-    * adding ready-made scripts
-* First person controller for prototyping
+    * **Edit** mode vs **Play** mode
+* Game Objects and Nesting hierarchy
+    * [Video: Create Primitive Shape](https://vimeo.com/253172756/dc9e9733de)
+    * [Video: Nesting in Hierarchy](https://vimeo.com/253172776/f5588d3c87)
+* Adding **Components** to Game Objects
+    * Materials
+    * [Video: Create and Add Material](https://vimeo.com/253172720/0589f5768d)
+    * Rigid Bodies and Colliders
+* Prefabs
+* Adding ready-made scripts
+* Asset Store
+    * First-person controller for prototyping
     * Because we only have one VR headset (much sadness)
+    * Bringing in First-person controller is similar to bringing in VR Framework
 
 
 ## Assignments for next time

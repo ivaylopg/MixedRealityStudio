@@ -112,6 +112,7 @@ Please review the official department guidelines and policies on the [printed sy
     * variables and functions
     * operations and assignment
     * "returning" a value
+* `C#` in Unity
 
 
 ### Session 06 - 02/05/18 (Monday)
