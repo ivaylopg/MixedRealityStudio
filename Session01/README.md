@@ -1,4 +1,4 @@
-# Session 01 - 08/22/17
+# Session 01 - 01/17/18
 
 ## Introductions, course overview, housekeeping
 * About this class

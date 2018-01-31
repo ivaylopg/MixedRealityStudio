@@ -1,4 +1,4 @@
-# Session 02 - 08/24/17
+# Session 04 - 01/22/17
 
 ## Intro
 * Lots to do today!
@@ -102,7 +102,7 @@
     * Bringing in First-person controller is similar to bringing in VR Framework
 
 
-## Assignments for next time
+## Assignments for next week
 * [John Underkoffler - TED Talk and Article](https://thenextweb.com/media/2015/08/31/a-stark-future/)
 * [Design For Humanity - Parts 1, 2, 3](https://medium.com/swlh/the-future-of-design-is-emotional-5789ccde17aa)
 
