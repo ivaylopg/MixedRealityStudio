@@ -104,7 +104,7 @@ Please review the official department guidelines and policies on the [printed sy
     * User interaction and expectations
 
 
-### Session 05 - 01/31/18 (Wednesday)
+### [Session 05 - 01/31/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session05)
 * Into to Unity Continued
 * Introducing `C#`
     * `C#` vs `JavaScript`
