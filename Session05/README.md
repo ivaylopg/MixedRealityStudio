@@ -11,7 +11,7 @@
     * `{` and `}` to define blocks of scope
     * functions defined with `(` and `)`, optionally with parameters passed inside
     * `;` at end of expressions
-    * whitespace insensitive
+    * whitespace doesn't (usually) matter
     * `if`, `else`, `while`, `for`, `switch` and many other basic logical constructs work exactly the same
 * Even when syntax is different...
     * Python 
@@ -33,7 +33,7 @@
 ### `C#` vs `JavaScript`
 * Most immediate difference you'll notice is that `C#` is **statically typed** while `JavaScript` is **dynamically typed**
     * variables start off as a specific thing, and have to stay that way. 
-    * Unlike `JavaScript` where you can add a decimal number to a whole number to a string
+    * Unlike `JavaScript` where you can do `var x = 12` and then later say `x = "hello"`
 * This means we have to be a little more specific when we do things in `C#`
 * Basic Programming Concepts in `C#`
     * variables
@@ -84,4 +84,3 @@
     * [John Underkoffler - TED Talk and Article](https://thenextweb.com/media/2015/08/31/a-stark-future/)
     * [Design For Humanity - Parts 1, 2, 3](https://medium.com/swlh/the-future-of-design-is-emotional-5789ccde17aa)
 * There's a lunar eclipse tonight!
-
