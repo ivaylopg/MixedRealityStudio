@@ -83,4 +83,3 @@
 * Don't forget the reading!
     * [John Underkoffler - TED Talk and Article](https://thenextweb.com/media/2015/08/31/a-stark-future/)
     * [Design For Humanity - Parts 1, 2, 3](https://medium.com/swlh/the-future-of-design-is-emotional-5789ccde17aa)
-* There's a lunar eclipse tonight!
