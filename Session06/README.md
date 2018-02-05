@@ -1,4 +1,4 @@
-# Session 05 - 09/05/17
+# Session 06 - 02/05/18
 
 ## Design Principles Continued - UI and UX
 * User interaction and setting up expectations
