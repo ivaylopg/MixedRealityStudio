@@ -115,7 +115,7 @@ Please review the official department guidelines and policies on the [printed sy
 * `C#` in Unity
 
 
-### Session 06 - 02/05/18 (Monday)
+### [Session 06 - 02/05/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session06)
 * Design principles continued
     * VR Health and Safety concerns
     * Thinking about different scales
