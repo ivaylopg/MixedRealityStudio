@@ -112,10 +112,7 @@ Please review the official department guidelines and policies on the [printed sy
     * variables and functions
     * operations and assignment
     * "returning" a value
-* `C#` in Unity - `Programming++`
-    * classes and objects - Intro to OOP
-    * public vs private
-    * Debugging/Testing
+* `C#` in Unity
 
 ### [Session 06 - 02/05/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session06)
 * Design principles continued
@@ -131,6 +128,10 @@ Please review the official department guidelines and policies on the [printed sy
 * Pseudocode and planning
 * Bringing-in SteamVR
 * Building a "teleport" behavior for VR 
+* `Programming++`
+    * classes and objects - Intro to OOP
+    * public vs private
+    * Debugging/Testing
 
 
 ### Session 08 - 02/12/18 (Monday)
