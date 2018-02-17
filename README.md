@@ -122,24 +122,22 @@ Please review the official department guidelines and policies on the [printed sy
 * Designing for "Experience"
     * UX and UI
     * Diegetic vs Non-Diegetic
-
-
-### [Session 07 - 02/07/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session07)
-* Pseudocode and planning
-* Bringing-in SteamVR
-* Building a "teleport" behavior for VR 
 * `Programming++`
     * classes and objects - Intro to OOP
     * public vs private
-    * Debugging/Testing
+
+
+### [Session 07 - 02/07/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session07)
+* VR in Unity
+    * Using the SteamVR plug-in
+* Building a "teleport" behavior for VR 
+    * Pseudocode and planning
 
 
 ### Session 08 - 02/12/18 (Monday)
-* Design principles continued
-    * User interaction and expectations continued
-    * HTC Vive hand controllers: form + function
-* VR in Unity
-    * Using the SteamVR plug-in
+* Individual VR Exercises
+    * Bring Unity scenes into VR
+    * Troubleshoot scripts
 
 
 ### Session 09 - 02/14/18 (Wednesday)
