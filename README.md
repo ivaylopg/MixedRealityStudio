@@ -134,16 +134,22 @@ Please review the official department guidelines and policies on the [printed sy
     * Pseudocode and planning
 
 
-### Session 08 - 02/12/18 (Monday)
+### [Session 08 - 02/12/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session08)
 * Individual VR Exercises
     * Bring Unity scenes into VR
     * Troubleshoot scripts
 
 
-### Session 09 - 02/14/18 (Wednesday)
+### [Session 09 - 02/14/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session09)
 * C# recap - Create a C# "cheat sheet"
 * Unity recap
     * Summarize concepts and workflow
+
+
+### [Weekend Session 01 (Makeup for 02/03) - 02/17/18 (Saturday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/WeekendSession01)
+* **Saturday intensive**
+* Unity Recap
+* In-class project workshop
 
 
 ### No Class - 02/19/18 (Monday)
@@ -203,13 +209,6 @@ Please review the official department guidelines and policies on the [printed sy
 
 ### No Class - 03/28/18
 * Cezar Chavez Day
-
-
-### Session 02A/03A - TBD
-* **Saturday intensive**
-* BIG UNITY RECAP
-* Unity Animations
-    * Keyframes and Curves
 
 
 ### Session 18 - 04/02/18 (Monday)
