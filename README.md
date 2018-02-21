@@ -157,8 +157,11 @@ Please review the official department guidelines and policies on the [printed sy
 
 
 ### Session 10 - 02/21/18 (Wednesday)
-* Introduce VR group project
-* Introduce project organization/management
+* Introduce Midterm Project
+    * Midterm Project Proposals & Discussion
+* Design Process
+    * Double Diamond model
+    * Minimum Viable Product
 * Catch-up/recap as needed
 
 
@@ -170,20 +173,14 @@ Please review the official department guidelines and policies on the [printed sy
 
 ### Session 11A/12A - TBD
 * **Saturday intensive**
-* Group project intensive
 
 
 ### Session 13 - 03/05/18 (Monday)
-* Introduce midterm project
-* Design Process
-    * Double Diamond model
-    * Minimum Viable Product
+* Lab Time/TBD
 
 
 ### Session 14 - 03/07/18 (Wednesday)
-* Midterm Project Proposals & Discussion
-* Vive recap
-* Catch-up as needed
+* Lab Time/TBD
 
 
 ### No Class - 03/12/18 (Monday) and 03/14/18 (Wednesday)
@@ -192,19 +189,20 @@ Please review the official department guidelines and policies on the [printed sy
 
 ### Session 15 - 03/19/18 (Monday)
 * Midterm workshop
-    * Advanced interactions in VR
+    * Topics TBD as needed
     * Individual Questions
 
 
 ### Session 16 - 03/21/18 (Wednesday)
-* Individual midterm meetings
-* Midterm workshop
-    * Topics TBD as needed
+* Midterm Projects Due
+    * In-class showcase and discussion
+
 
 
 ### Session 17 - 03/26/18 (Monday)
-* Midterm Projects Due
-    * In-class showcase and discussion
+* Intro to AR
+    * Designing for a layer _on top_ of the world instead of everything the user sees
+    * Sensing the real world
 
 
 ### No Class - 03/28/18
@@ -212,9 +210,6 @@ Please review the official department guidelines and policies on the [printed sy
 
 
 ### Session 18 - 04/02/18 (Monday)
-* Intro to AR
-    * Designing for a layer _on top_ of the world instead of everything the user sees
-    * Sensing the real world
 * Overview of AR Devices
     * Microsoft Hololens
     * Mobile AR (Apple ARKit)
