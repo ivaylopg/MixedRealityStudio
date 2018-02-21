@@ -198,7 +198,6 @@ Please review the official department guidelines and policies on the [printed sy
     * In-class showcase and discussion
 
 
-
 ### Session 17 - 03/26/18 (Monday)
 * Intro to AR
     * Designing for a layer _on top_ of the world instead of everything the user sees
