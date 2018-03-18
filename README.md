@@ -166,28 +166,29 @@ Please review the official department guidelines and policies on the [printed sy
 
 
 ### Session 11 - 02/26/18 (Monday) && Session 12 - 02/28/18 (Wednesday)
-* No Class - To be replaced by Saturday intensive - Date TBD
-* Lab open for project work or catch up
-* Instructor available for questions
+* **No class this week**
+    * _Note: Class time will be accounted for with a Saturday class later this semester._
+* **Instructor available for questions**
 
 
-### Session 11A/12A - TBD
-* **Saturday intensive**
-
-
-### Session 13 - 03/05/18 (Monday)
-* Lab Time/TBD
-
-
-### Session 14 - 03/07/18 (Wednesday)
-* Lab Time/TBD
-
+### Session 13 - 03/05/18 (Monday) && Session 14 - 03/07/18 (Wednesday)
+* **No class this week**
+    * _Note: Class time will be accounted for with a Saturday class later this semester._
+* **Instructor available for questions**
 
 ### No Class - 03/12/18 (Monday) and 03/14/18 (Wednesday)
 * Spring Break
 
 
+### Session 11A/12A - TBD
+* **Saturday intensive**
+
+### Session 13A/12A - TBD
+* **Saturday intensive**
+
+
 ### Session 15 - 03/19/18 (Monday)
+* Welcome back!
 * Midterm workshop
     * Topics TBD as needed
     * Individual Questions
