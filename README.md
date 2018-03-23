@@ -146,7 +146,7 @@ Please review the official department guidelines and policies on the [printed sy
     * Summarize concepts and workflow
 
 
-### [Weekend Session 01 (Makeup for 02/03) - 02/17/18 (Saturday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/WeekendSession01)
+### [Weekend Session 01 (Makeup for S02/S03) - 02/17/18 (Saturday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/WeekendSession01)
 * **Saturday intensive**
 * Unity Recap
 * In-class project workshop
@@ -179,25 +179,24 @@ Please review the official department guidelines and policies on the [printed sy
 ### No Class - 03/12/18 (Monday) and 03/14/18 (Wednesday)
 * Spring Break
 
-
-### Session 11A/12A - TBD
-* **Saturday intensive**
-
-### Session 13A/12A - TBD
-* **Saturday intensive**
-
-
-### Session 15 - 03/19/18 (Monday)
+### [Session 15 - 03/19/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session15)
 * Welcome back!
 * Midterm workshop
     * Topics TBD as needed
     * Individual Questions
 
 
-### Session 16 - 03/21/18 (Wednesday)
+### [Session 16 - 03/21/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session16)
+* Quick notes on VR "Screen" UI and Text
+* Midterm workshop
+    * Topics TBD as needed
+    * Individual Questions
+
+
+### Weekend Session 02 (Makeup for S02/S03) - 03/24/18 (Saturday)
+* **Saturday intensive**
 * Midterm Projects Due
     * In-class showcase and discussion
-
 
 ### Session 17 - 03/26/18 (Monday)
 * Intro to AR
@@ -262,6 +261,12 @@ Please review the official department guidelines and policies on the [printed sy
 * Class Topic Recap
     * Revisit "The Future of Media"
 * Final Project Public Demo Day (Alt date TBD)
+
+
+### Session 13A/12A - TBD
+* **Saturday intensive**
+
+
 
 
 
