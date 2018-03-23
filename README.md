@@ -193,7 +193,7 @@ Please review the official department guidelines and policies on the [printed sy
     * Individual Questions
 
 
-### Weekend Session 02 (Makeup for S02/S03) - 03/24/18 (Saturday)
+### Weekend Session 02 (Makeup for S11/S12) - 03/24/18 (Saturday)
 * **Saturday intensive**
 * Midterm Projects Due
     * In-class showcase and discussion
