@@ -156,7 +156,7 @@ Please review the official department guidelines and policies on the [printed sy
 * Presidents Day
 
 
-### Session 10 - 02/21/18 (Wednesday)
+### [Session 10 - 02/21/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session10)
 * Introduce Midterm Project
     * Midterm Project Proposals & Discussion
 * Design Process
