@@ -198,14 +198,17 @@ Please review the official department guidelines and policies on the [printed sy
 * Midterm Projects Due
     * In-class showcase and discussion
 
-### Session 17 - 03/26/18 (Monday)
+### [Session 17 - 03/26/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session17)
 * Intro to AR
     * Designing for a layer _on top_ of the world instead of everything the user sees
     * Sensing the real world
+* Overview of AR Devices
+    * Microsoft Hololens
+    * Mobile AR (Apple ARKit)
 
 
-### No Class - 03/28/18
-* Cezar Chavez Day
+### No School - 03/28/18
+* School Closed for Cezar Chavez Day
 
 
 ### Session 18 - 04/02/18 (Monday)
