@@ -23,7 +23,7 @@
     - Things are about to get a bit more complex.
 - Allow me a bit of a tangent…
 - A programming language is just a text file written according to a standard.
-    - Sure, we have tools that help us by auto-completing words and colorizing the text, but you can write any language in any text editor, or even by hand
+    - Sure, we have tools that help us by auto-completing words and colorizing the text, but you can write any language in any text editor, or even [by hand](http://www.duxburysystems.org/downloads/library/texas/apple/history/museum/computers_apple1/woz6502code.html).
     - A programming language is **not for computers**. It's for us! It is meant to be **human readable**. 
     - The computer doesn’t care if you use C# or C++ or Java or BrainFuck.
 - Let’s talk about how computers actually work.
@@ -54,7 +54,8 @@
 
 
 ## Extra reading
-**This is not required!** Just some additional resources you might find interesting/relevant/funny.    
+**This is not required!** Just some additional resources you might find interesting/relevant/funny.   
+[Apple II Handwritten Code](http://www.duxburysystems.org/downloads/library/texas/apple/history/museum/computers_apple1/woz6502code.html)     
 [Unity IL2CPP](https://docs.unity3d.com/Manual/IL2CPP.html)    
 [How Does Machine Code Communicate with CPU?](https://stackoverflow.com/questions/9753669/how-does-machine-code-communicate-with-processor)    
 [Intermediate Language](https://en.wikipedia.org/wiki/Common_Intermediate_Language)    
