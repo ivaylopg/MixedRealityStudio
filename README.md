@@ -78,7 +78,7 @@ Please review the official department guidelines and policies on the [printed sy
 ## Schedule (_Tentative_)
 
 
-### [Session 01 - 01/17/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session01)
+### [Session 01 - 01/17/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session01)
 * Introductions, course overview, housekeeping
 * Intro to AR/VR/MR design principles
     * A brief history
@@ -94,7 +94,7 @@ Please review the official department guidelines and policies on the [printed sy
 * _Note: Class time will be accounted for with a Saturday class later this semester._
 
 
-### [Session 04 - 01/29/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session04)
+### [Session 04 - 01/29/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session04)
 * Intro to Unity
 * What is _"Creative Coding"_?
     * Coding as writing
@@ -104,7 +104,7 @@ Please review the official department guidelines and policies on the [printed sy
     * User interaction and expectations
 
 
-### [Session 05 - 01/31/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session05)
+### [Session 05 - 01/31/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session05)
 * Into to Unity Continued
 * Introducing `C#`
     * `C#` vs `JavaScript`
@@ -114,7 +114,7 @@ Please review the official department guidelines and policies on the [printed sy
     * "returning" a value
 * `C#` in Unity
 
-### [Session 06 - 02/05/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session06)
+### [Session 06 - 02/05/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session06)
 * Design principles continued
     * VR Health and Safety concerns
     * Thinking about different scales
@@ -127,26 +127,26 @@ Please review the official department guidelines and policies on the [printed sy
     * public vs private
 
 
-### [Session 07 - 02/07/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session07)
+### [Session 07 - 02/07/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session07)
 * VR in Unity
     * Using the SteamVR plug-in
 * Building a "teleport" behavior for VR 
     * Pseudocode and planning
 
 
-### [Session 08 - 02/12/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session08)
+### [Session 08 - 02/12/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session08)
 * Individual VR Exercises
     * Bring Unity scenes into VR
     * Troubleshoot scripts
 
 
-### [Session 09 - 02/14/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session09)
+### [Session 09 - 02/14/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session09)
 * C# recap - Create a C# "cheat sheet"
 * Unity recap
     * Summarize concepts and workflow
 
 
-### [Weekend Session 01 (Makeup for S02/S03) - 02/17/18 (Saturday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/WeekendSession01)
+### [Weekend Session 01 (Makeup for S02/S03) - 02/17/18 (Saturday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/WeekendSession01)
 * **Saturday intensive**
 * Unity Recap
 * In-class project workshop
@@ -156,7 +156,7 @@ Please review the official department guidelines and policies on the [printed sy
 * Presidents Day
 
 
-### [Session 10 - 02/21/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session10)
+### [Session 10 - 02/21/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session10)
 * Introduce Midterm Project
     * Midterm Project Proposals & Discussion
 * Design Process
@@ -179,14 +179,14 @@ Please review the official department guidelines and policies on the [printed sy
 ### No Class - 03/12/18 (Monday) and 03/14/18 (Wednesday)
 * Spring Break
 
-### [Session 15 - 03/19/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session15)
+### [Session 15 - 03/19/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session15)
 * Welcome back!
 * Midterm workshop
     * Topics TBD as needed
     * Individual Questions
 
 
-### [Session 16 - 03/21/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session16)
+### [Session 16 - 03/21/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session16)
 * Quick notes on VR "Screen" UI and Text
 * Midterm workshop
     * Topics TBD as needed
@@ -198,7 +198,7 @@ Please review the official department guidelines and policies on the [printed sy
 * Midterm Projects Due
     * In-class showcase and discussion
 
-### [Session 17 - 03/26/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/Session17)
+### [Session 17 - 03/26/18 (Monday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session17)
 * Intro to AR
     * Designing for a layer _on top_ of the world instead of everything the user sees
     * Sensing the real world
