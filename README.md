@@ -212,12 +212,25 @@ Please review the official department guidelines and policies on the [printed sy
 
 
 ### Session 18 - 04/02/18 (Monday)
-* Overview of AR Devices
-    * Microsoft Hololens
-    * Mobile AR (Apple ARKit)
+* Intermediate Unity
+    * Layers & Tags
+* Intermediate C#
+    * Arrays and Lists
+    * Loops and working with many objects (`foreach`)
+* Developing our VR Teleport script
 
 
 ### Session 19 - 04/04/18 (Wednesday)
+* HoloLens Workflow
+    * Using the Microsoft MixedReality Toolkit for Unity
+    * Using the Unity Holographic Emulator
+    * Previewing to a device over the network
+* ARKit Workflow
+    * Using the ARKit Plugin
+    * Using the ARKit "remote"
+
+
+### Session 20 - 04/09/18 (Monday)
 * Introduce final project
 * Recap important concepts
 * Recap available tools/resources
@@ -226,17 +239,8 @@ Please review the official department guidelines and policies on the [printed sy
     * Using AR/VR as tools for the "Generalist"
 
 
-### Session 20 - 04/09/18 (Monday)
-* Final project pitches and individual meetings
-
-
 ### Session 21 - 04/11/18 (Wednesday)
-* Available resources: HoloToolkit
-    * Don't re-invent the wheel
-* Building to Hololens
-    * Using Unity files from "mini" project
-    * Using the Microsoft MixedReality Toolkit for Unity
-    * Previewing to a device over the network
+* Final project pitches and individual meetings
 
 
 ### Session 22 - 04/16/18 (Monday)
