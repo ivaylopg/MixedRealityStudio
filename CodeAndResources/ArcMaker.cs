@@ -13,6 +13,8 @@ public class ArcMaker : MonoBehaviour {
     provide your own prefabs for `indicatorPrefab`
     and `collisionPrefab`
 
+    Get it here:
+      https://github.com/ivaylopg/MixedRealityStudio/raw/master/CodeAndResources/ArcRenderer.unitypackage
 
    **************************************************/
 
