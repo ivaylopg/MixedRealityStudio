@@ -223,7 +223,6 @@ Please review the official department guidelines and policies on the [printed sy
 ### Session 19 - 04/04/18 (Wednesday)
 * HoloLens Workflow
     * Using the Microsoft MixedReality Toolkit for Unity
-    * Using the Unity Holographic Emulator
     * Previewing to a device over the network
 * ARKit Workflow
     * Using the ARKit Plugin
@@ -232,7 +231,7 @@ Please review the official department guidelines and policies on the [printed sy
 
 ### Session 20 - 04/09/18 (Monday)
 * Introduce final project
-* Recap important concepts
+* Final project pitches
 * Recap available tools/resources
 * "Tech for Me vs Tech for You"
     * technology as design process for the artist/creator VS technology as final deliverable/medium for the user
@@ -240,15 +239,16 @@ Please review the official department guidelines and policies on the [printed sy
 
 
 ### Session 21 - 04/11/18 (Wednesday)
-* Final project pitches and individual meetings
-
+* Final project individual meetings
+* Final Project workshop and notes
+    * Topics TBD as needed
+    * Individual Questions
 
 ### Session 22 - 04/16/18 (Monday)
 * Final Projects Check-In
     * Setting Milestones
 * Final Project Workshop
-    * Raycasting
-    * Hololens Spatial Mapping
+    * Topics TBD as needed
     * Individual Questions
 
 
