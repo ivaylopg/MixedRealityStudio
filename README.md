@@ -13,8 +13,12 @@ This class will explore various platforms for the design and creation of AR and 
 **This Monday-Wednesday class will be substituted for a Saturday 5-hours class up to three times during the semester. Dates TBD.**
 
 
+### Archive
 _Former students looking for materials from TECH 3706 & ARCH 6760 - AR/VR in Architectural Environments or TECH 421 - Future of Digital Media (Fall 2017) can check out the [fall2017](https://github.com/ivaylopg/MixedRealityStudio/tree/fall2017) branch of this repo._
 
+Archived Sessions:
+* [fall2017](https://github.com/ivaylopg/MixedRealityStudio/tree/fall2017)
+* [spring2018](https://github.com/ivaylopg/MixedRealityStudio/tree/spring2018)
 
 ### Class Format
 Mixed Reality is a rapidly evolving field, both professionally and pedagogically. Encompassing VR, AR, and any number of trendy buzzwords such as "experiential" and immersive, it stretches across disciplines and can be informed by a variety of expertise. I want to create an environment where you can experiment with new techniques and practices, which are themselves in constant flux as the technology changes and finds its audience. 
