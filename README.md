@@ -1,9 +1,9 @@
 # TECH 1711 - Mixed Reality Studio
 Section Name: TECH.1711
-08/21/2017 - 12/08/2017    
-Monday & Wednesday 9:30AM - 12:00pm    
-Classroom: M209    
-Instructor: Ivaylo Getov - ivaylo.getov@woodbury.edu    
+08/21/2018 - 12/08/2018
+Monday & Wednesday 9:30AM - 12:00pm
+Classroom: M209
+Instructor: Ivaylo Getov - ivaylo.getov@woodbury.edu
 
 ---
 
@@ -12,14 +12,10 @@ This class will explore various platforms for the design and creation of AR and 
 
 **This Monday-Wednesday class will be substituted for a Saturday 5-hours class up to three times during the semester. Dates TBD.**
 
-
-_Former students looking for materials from TECH 3706 & ARCH 6760 - AR/VR in Architectural Environments or TECH 421 - Future of Digital Media (Fall 2017) can check out the [fall2017](https://github.com/ivaylopg/MixedRealityStudio/tree/fall2017) branch of this repo._
-
-
 ### Class Format
-Mixed Reality is a rapidly evolving field, both professionally and pedagogically. Encompassing VR, AR, and any number of trendy buzzwords such as "experiential" and immersive, it stretches across disciplines and can be informed by a variety of expertise. I want to create an environment where you can experiment with new techniques and practices, which are themselves in constant flux as the technology changes and finds its audience. 
+Mixed Reality is a rapidly evolving field, both professionally and pedagogically. Encompassing VR, AR, and any number of trendy buzzwords such as "experiential" and immersive, it stretches across disciplines and can be informed by a variety of expertise. I want to create an environment where you can experiment with new techniques and practices, which are themselves in constant flux as the technology changes and finds its audience.
 
-The class will be structured as a hands-on lab - lectures will serve to introduce or explore concepts that are then put to the test. 
+The class will be structured as a hands-on lab - lectures will serve to introduce or explore concepts that are then put to the test.
 
 The first session each week (Monday) will tend to be more theoretical, while the second (Wednesday) will dive deeper into execution, coding, and implementation.
 
@@ -130,7 +126,7 @@ Please review the official department guidelines and policies on the [printed sy
 ### [Session 07 - 02/07/18 (Wednesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session07)
 * VR in Unity
     * Using the SteamVR plug-in
-* Building a "teleport" behavior for VR 
+* Building a "teleport" behavior for VR
     * Pseudocode and planning
 
 
