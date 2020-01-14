@@ -116,7 +116,7 @@ Please review the official department guidelines and policies on the [printed sy
     * Diegetic vs Non-Diegetic
 * `Programming++`
     * classes and objects - Intro to OOP
-    * public vs private
+    * `public` vs `private`
 
 
 ### Session 05 - Jan 28, 2020 (Tuesday)
@@ -159,7 +159,7 @@ Please review the official department guidelines and policies on the [printed sy
 * Coming up with new solutions for movement
 
 
-### NO CLASSES - Feb 14, 2020 (Friday)
+### NO CLASSES - Feb 18, 2020 (Friday)
 * WU Enrichment Day
 
 
@@ -192,7 +192,7 @@ Please review the official department guidelines and policies on the [printed sy
     * In-class showcase and discussion
 
 
-## NO CLASSES - Mar 10, 2020 (Tuesday) and Mar 13, 2020 (Wednesday)
+### NO CLASSES - Mar 10, 2020 (Tuesday) and Mar 13, 2020 (Friday)
 * [Spring Breaaaaaaaaaaak](https://giphy.com/embed/3o6Zt2T1oGm7N5UwX6)
 
 
