@@ -11,10 +11,7 @@ Instructor: Ivaylo Getov - ivaylo.getov@woodbury.edu
 This class will explore various platforms for the design and creation of AR and VR applications. Emphasizing hands-on experimentation, this experiential studio is meant to be a collaboration between both programmers and designers to research and develop new paradigms for user experience and new pipelines for the creation of 3D content. Using the Unity game engine and various hardware equipment, such as the Microsoft Hololens, HTC Vive, and mobile devices, students will work individually and in teams to practically apply novel design principles, culminating in a semester project demonstrating a critical approach to designing for these emerging forms of media.
 
 
-### Archive
-_Former students looking for materials from TECH 3706 & ARCH 6760 - AR/VR in Architectural Environments or TECH 421 - Future of Digital Media (Fall 2017) can check out the [fall2017](https://github.com/ivaylopg/MixedRealityStudio/tree/fall2017) branch of this repo._
-
-Archived Sessions:
+### Archived Sessions:
 * [fall2017 (TECH 3706 & ARCH 6760)](https://github.com/ivaylopg/MixedRealityStudio/tree/fall2017)
 * [spring2018 (TECH 1711)](https://github.com/ivaylopg/MixedRealityStudio/tree/spring2018)
 
