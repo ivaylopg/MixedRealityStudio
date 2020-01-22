@@ -283,7 +283,7 @@ Please review the official department guidelines and policies on the [printed sy
 ---
 
 ## Coding Resources
-* One of my favorite general learn-to-code resources is anything by [Daniel Shiffman](https://vimeo.com/shiffman/collections) at NYU. He has a series of videos called [Computer Programming for the Total Beginner](https://vimeo.com/channels/introcompmedia), but once you've got the very very basics down (what are variables? what are functions?) I would highly recommend his video series [The Nature of Code: Simulating Natural Systems with Processing](https://vimeo.com/channels/natureofcode).
+* One of my favorite general learn-to-code resources is anything by [Daniel Shiffman](https://vimeo.com/shiffman/collections) at NYU. He has a great youtube channel of basic coding lessons, including a series of videos called [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) that is a great place to start. Once you've got the very very basics down (what are variables? what are functions?) I would highly recommend his video series [The Nature of Code: Simulating Natural Systems with Processing](https://vimeo.com/channels/natureofcode).
 * Harvard's intro to CS class is available via HarvardX and youtube: [Harvard CS50 2012](https://www.youtube.com/playlist?list=PLhQjrBD2T3827MXcOrlJChW2B-gIH81Lx) or [CS50 2017](https://www.youtube.com/watch?v=o4SGkB_8fFs&list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
 
 ---
