@@ -74,7 +74,7 @@ Please review the official department guidelines and policies on the [printed sy
 
 ## Schedule (_Tentative_)
 
-### Session 01 - Jan 14, 2020 (Tuesday)
+### [Session 01 - Jan 14, 2020 (Tuesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session01)
 * Introductions, course overview, housekeeping
 * Intro to AR/VR/MR design principles
     * A brief history
@@ -85,7 +85,7 @@ Please review the official department guidelines and policies on the [printed sy
     * Why use gaming engines?
 
 
-### Session 02 - Jan 17, 2020 (Friday)
+### [Session 02 - Jan 17, 2020 (Friday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session02)
 * Intro to Unity
 * What is _"Creative Coding"_?
     * Coding as writing
@@ -95,7 +95,7 @@ Please review the official department guidelines and policies on the [printed sy
     * User interaction and expectations
 
 
-### Session 03 - Jan 21, 2020 (Tuesday)
+### [Session 03 - Jan 21, 2020 (Tuesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session03)
 * Into to Unity Continued
 * Introducing `C#`
     * `C#` vs `JavaScript`
@@ -119,7 +119,7 @@ Please review the official department guidelines and policies on the [printed sy
     * `public` vs `private`
 
 
-### Session 05 - Jan 28, 2020 (Tuesday)
+### [Session 05 - Jan 28, 2020 (Tuesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session05)
 * VR in Unity
     * Using the SteamVR plug-in
 * Building a "teleport" behavior for VR
