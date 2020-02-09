@@ -132,17 +132,17 @@ Please review the official department guidelines and policies on the [printed sy
     * Troubleshoot scripts
 
 
-### Session 07 - Feb 4, 2020 (Tuesday)
+### [Session 07 - Feb 4, 2020 (Tuesday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/CodeAndResources/Session7-MovementScripts)
 * Topics TBD
 
 
-### Session 08 - Feb 7, 2020 (Friday)
-* Topics TBD
+### [Session 08 - Feb 7, 2020 (Friday)](https://github.com/ivaylopg/MixedRealityStudio/tree/master/ClassNotes/Session08)
+* Bring Unity scenes into VR
+* Introduce Midterm Project
 
 
 ### Session 09 - Feb 11, 2020 (Tuesday)
-* Introduce Midterm Project
-    * Midterm Project Proposals & Discussion
+* Midterm Project Proposals & Discussion
 * Design Process
     * Double Diamond model
     * Minimum Viable Product
